@@ -4,22 +4,27 @@
 
 ### Part-time FullStack & Game Dev Larper | Full-time Hololarpjoyer 
 
-# 🥔 WISHLIST G.O.R.D ON STEAM! 🥔
-
 </div>
 
 ---
 
 ### 🌐 About Me
 
-* 💻 Soon-to-graduate Computer Science student at Mapúa Malayan Colleges Mindanao based in Davao City, Philippines 🇵🇭.
+* 💻 Soon-to-graduate Computer Science student at Mapúa Malayan Colleges Mindanao based in Davao City, Philippines.
 * 🎮 Aspiring Indie Game Designer and Systems/App Developer.
-* 📖 Linguaphile & Casual Reader
+* 📖 Linguaphile & Casual Reader.
+
+
+<br>
 
 <div align="center">
-  <div style="display: inline-block; border: 1px solid #30363d; border-radius: 6px; padding: 16px 24px; background-color: #0d1117; text-align: center;">
-    🏴‍☠️ &nbsp; <b>Larping Game Dev & Full Stack, one project at a time</b> &nbsp; 🥕<br>
-    ☄️ &nbsp; <i>"Building digital worlds and shipping code."</i> &nbsp; 🌽
+  <div style="width: 85%; padding: 2px; background: linear-gradient(135deg, #238636, #1f6feb, #8957e5); border-radius: 10px;">
+    <div style="background-color: #0d1117; padding: 18px 24px; border-radius: 9px; text-align: left; font-family: monospace; color: #c9d1d9;">
+      <p style="margin: 0 0 8px 0; color: #8b949e; font-size: 12px;">⚡ <b>STATUS // CURRENT_OBJECTIVE.exe</b></p>
+      <p style="margin: 0 0 12px 0; font-size: 14px;">🏴‍☠️ <b>Larping Game Dev & Full Stack</b> — one project at a time 🥕</p>
+      <p style="margin: 0 0 12px 0; font-size: 14px; color: #58a6ff;">🚀 <b>Active WIP:</b> Crafting systems & building worlds for <b>G.O.R.D</b> 🎮</p>
+      <p style="margin: 0; color: #8b949e; font-size: 13px; font-style: italic;">☄️ "Shipping code, chasing indie dreams, and feeding the family." 🌽</p>
+    </div>
   </div>
 </div>
 
@@ -61,16 +66,16 @@
 </p>
 
 ---
-
-<div align="center">
-
-### 📡 Connect With Me
-
+### 🌐 Socials
 <p align="center">
   <a href="https://www.linkedin.com/in/aaron-keith-berongon-1b818a2b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/kamtay"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="mailto:aberongon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.com/users/655078196252901376"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
+
+<div align="center">
+
+# 🥔 WISHLIST G.O.R.D ON STEAM! 🥔
 
 </div>
