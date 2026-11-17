@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="./banner.svg" alt="Animated Header" />
+  <img src="banner.svg" alt="Animated Header" />
 </p>
 
 </div>
@@ -38,7 +38,6 @@
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Krita-20232A?style=for-the-badge&logo=krita&logoColor=22B8CF" />
   <img src="https://img.shields.io/badge/Game_Backend-333333?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
