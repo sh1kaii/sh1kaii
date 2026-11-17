@@ -1,8 +1,6 @@
 <div align="center">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sh1kaii/Portfolio/main/banner.svg" alt="Animated Header" />
-</p>
+![Animated Header](https://raw.githubusercontent.com/sh1kaii/Portfolio/main/banner.svg)
 
 </div>
 
