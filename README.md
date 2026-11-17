@@ -10,8 +10,8 @@
 
 ### 🌐 About Me
 
-* 💻 Computer Science student at Mapúa Malayan Colleges Mindanao based in Davao City, Philippines[cite: 6].
-* ⚡ Building game systems, full-stack web applications, automated chat systems, and AI-driven tools.
+* 💻 Soon-to-graduate Computer Science student at Mapúa Malayan Colleges Mindanao based in Davao City, Philippines[cite: 6].
+* 🏴‍☠️🥕☄️🌽 Aspiring Studio creator or smth larping my way to feed my family lmao.
 
 ---
 
@@ -37,16 +37,6 @@
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-**AI, Chatbots & Data Parsers:**
-<p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rasa-5A2456?style=for-the-badge&logo=rasa&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keystatic-24292E?style=for-the-badge&logo=gitbook&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/SheetJS-0F9D58?style=for-the-badge&logo=googlesheets&logoColor=white" />
-</p>
-
 **Core Languages & Tools:**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -63,5 +53,3 @@
 ---
 
 ### 📡 Connect With Me
-
-<!-- Drop your social links here -->
