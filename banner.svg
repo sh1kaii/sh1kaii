@@ -1,3 +1,4 @@
+
 <svg width="750" height="90" viewBox="0 0 750 90" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
@@ -48,10 +49,10 @@
       filter: url(#glow);
     }
 
-    .l1 { fill: #E63946; animation: fadeCycle 16s infinite 0s; }   
-    .l2 { fill: #60A5FA; animation: fadeCycle 16s infinite 4s; }   
-    .l3 { fill: #3B82F6; animation: fadeCycle 16s infinite 8s; }   
-    .l4 { fill: #F8FAFC; animation: fadeCycle 16s infinite 12s; }  
+    .l1 { fill: #E63946; animation: fadeCycle 16s infinite 0s; }
+    .l2 { fill: #60A5FA; animation: fadeCycle 16s infinite 4s; }
+    .l3 { fill: #3B82F6; animation: fadeCycle 16s infinite 8s; }
+    .l4 { fill: #F8FAFC; animation: fadeCycle 16s infinite 12s; }
 
     @keyframes fadeCycle {
       0%   { opacity: 0; transform: translateY(6px); }
@@ -78,7 +79,7 @@
   <circle cx="715" cy="0" r="1" class="sparkle" style="animation-duration: 0.8s; animation-delay: 0.3s;" />
 
   <text x="50%" y="53%" class="line l1">ハローワールド！🏴‍☠️</text>
-  <text x="50%" y="53%" class="line l2">Aspiring Full Stack & Game Dev Larper 🥕</text>
+  <text x="50%" y="53%" class="line l2">Aspiring Full Stack &amp; Game Dev Larper 🥕</text>
   <text x="50%" y="53%" class="line l3">I love learning new things, especially languages ☄️</text>
   <text x="50%" y="53%" class="line l4">🚂 Wishlist G.O.R.D on Steam! 🌽</text>
 </svg>
