@@ -1,9 +1,8 @@
 <div align="center">
 
-![Animated Header](https://raw.githubusercontent.com/sh1kaii/Portfolio/main/banner.svg)
+![Animated Header](https://raw.githubusercontent.com/sh1kaii/Portfolio/main/banner.svg?v=2)
 
 </div>
-
 ---
 
 ### 🧭 About Me
