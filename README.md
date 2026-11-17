@@ -1,6 +1,19 @@
 <div align="center">
 
-![Animated Header](https://raw.githubusercontent.com/sh1kaii/Portfolio/main/banner.svg?v=2)
+<div style="background: #0d1117; border: 1px solid #30363d; border-radius: 12px; padding: 25px 20px; max-width: 700px; margin: 0 auto; box-shadow: 0 8px 32px rgba(0,0,0,0.4);">
+  <p style="font-family: monospace; font-weight: bold; font-size: 20px; color: #E63946; margin: 0 0 10px 0;">
+    ハローワールド！🏴‍☠️
+  </p>
+  <p style="font-family: monospace; font-weight: bold; font-size: 18px; color: #60A5FA; margin: 0 0 10px 0;">
+    Aspiring Full Stack &amp; Game Dev Larper 🥕
+  </p>
+  <p style="font-family: monospace; font-weight: bold; font-size: 18px; color: #3B82F6; margin: 0 0 10px 0;">
+    I love learning new things, especially languages ☄️
+  </p>
+  <p style="font-family: monospace; font-weight: bold; font-size: 18px; color: #F8FAFC; margin: 0;">
+    🚂 Wishlist G.O.R.D on Steam! 🌽
+  </p>
+</div>
 
 </div>
 ---
