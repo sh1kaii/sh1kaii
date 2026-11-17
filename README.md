@@ -2,9 +2,9 @@
 
 # Aaron Keith S. Berongon
 
-### Part-time FullStack & Game Dev Larper | Full-time Hololarpjoyer 
+### Part-time FullStack & Game Dev Larper | Full-time 
 
-# 🥔 WISHLIST G.O.R.D ON STEAM! 🥔
+# 🚂 WISHLIST G.O.R.D ON STEAM! 🚂
 
 </div>
 
@@ -13,14 +13,16 @@
 ### 🌐 About Me
 
 * 💻 Soon-to-graduate Computer Science student at Mapúa Malayan Colleges Mindanao based in Davao City, Philippines 🇵🇭.
-* 🎮 Aspiring Indie Game Designer and Systems/App Developer.
+* 🎮 Aspiring Indie Game and Systems/App Developer.
+* 📖 linguaphile 
+
 
 <div align="center">
   <table>
     <tr>
       <td align="center" style="padding: 12px; border-radius: 8px;">
         🏴‍☠️ &nbsp; <b>Larping Game Dev & Full Stack, one project at a time</b> &nbsp; 🥕<br>
-        ☄️ &nbsp; <i>"Building digital worlds and shipping code."</i> &nbsp; 🌽
+        ☄️ &nbsp; <i>" Hololarpjoyer & Merch Collector "</i> &nbsp; 🌽
       </td>
     </tr>
   </table>
@@ -28,7 +30,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 **Game Development & Engine:**
 <p>
@@ -67,7 +69,7 @@
 
 <div align="center">
 
-### 📡 Connect With Me
+###  Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aaron-keith-berongon-1b818a2b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
