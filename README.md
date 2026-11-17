@@ -1,7 +1,10 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=650&height=70&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81%E5%83%95%E3%81%AEGitHub%E3%81%B8+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;I'm+a+FullStack+%26+Game+Dev+Larper+%E2%9A%A1;%F0%9F%9A%82+Wishlist+G.O.R.D+on+Steam!+%F0%9F%9A%82" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=E63946&center=true&vCenter=true&width=650&height=45&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81%E5%83%95%E3%81%AEGitHub%E3%81%B8+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F" alt="Marine Greeting" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&height=40&lines=I'm+a+FullStack+%26+Game+Dev+Larper+%F0%9F%A5%95" alt="Pekora Line" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3100&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=40&lines=%F0%9F%9A%82+Wishlist+G.O.R.D+on+Steam!+%E2%98%84%EF%B8%8F" alt="Suisei Line" /><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3400&pause=1100&color=F8FAFC&center=true&vCenter=true&width=650&height=40&lines=Learning+%26+mastering%2C+one+project+at+a+time+%F0%9F%8C%BD" alt="Fubuki Line" />
 </p>
 
 </div>
@@ -17,12 +20,12 @@
 </div>
 
 <div align="center">
-  <div style="background: linear-gradient(135deg, rgba(230, 57, 70, 0.65), rgba(212, 175, 55, 0.55)); padding: 1.5px; border-radius: 12px; display: inline-block; width: 100%; max-width: 600px; box-shadow: 0 8px 32px rgba(230, 57, 70, 0.15);">
+  <div style="background: linear-gradient(135deg, #E63946, #60A5FA, #2563EB, #F8FAFC); padding: 1.5px; border-radius: 12px; display: inline-block; width: 100%; max-width: 600px; box-shadow: 0 8px 32px rgba(230, 57, 70, 0.15);">
     <div style="background-color: #0d1117; padding: 22px 28px; border-radius: 11px; text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
       <p style="margin: 0 0 12px 0; font-size: 15px; color: #f8f9fa; letter-spacing: 0.3px;">
-        🏴‍☠️ &nbsp; <b>Full Stack & Game Dev one project at a time</b> &nbsp; 🥕
+        🏴‍☠️ &nbsp; <b>Learning & mastering — one project at a time</b> &nbsp; 🥕
       </p>
-      <p style="margin: 0; font-size: 14px; color: #d4af37; font-style: italic; letter-spacing: 0.3px;">
+      <p style="margin: 0; font-size: 14px; color: #93C5FD; font-style: italic; letter-spacing: 0.3px;">
         ☄️ &nbsp; <b>Hololarpjoyer & Merch collector</b> &nbsp; 🌽
       </p>
     </div>
@@ -78,13 +81,4 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aaron-keith-berongon-1b818a2b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/kamtay"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:aberongon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://discord.com/users/655078196252901376"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-</p>
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=kamtay&color=e63946&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-
-</div>
+  <a href="https://twitter.com/kamtay"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
