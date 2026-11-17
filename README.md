@@ -1,7 +1,5 @@
 <div align="center">
 
-<div align="center">
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/sh1kaii/Portfolio/main/banner.svg" alt="Animated Header" />
 </p>
