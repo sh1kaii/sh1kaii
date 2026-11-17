@@ -4,7 +4,13 @@
 
 ### Part-time FullStack & Game Dev Larper
 
-# 🚂 WISHLIST G.O.R.D ON STEAM! 🚂
+<br>
+
+<div align="center">
+  <pre style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px 24px; display: inline-block; font-family: monospace; color: #58a6ff; font-weight: bold; letter-spacing: 2px;">
+🕹️ [ ▶ PAC-BIT 👾 ] ➔ ➔ ➔ 🥔 [ WISHLIST G.O.R.D ON STEAM! ]
+  </pre>
+</div>
 
 </div>
 
@@ -19,17 +25,13 @@
 <br>
 
 <div align="center">
-  <div style="background: linear-gradient(135deg, rgba(88, 166, 255, 0.15), rgba(137, 87, 229, 0.15)); padding: 1px; border-radius: 12px; display: inline-block; width: 100%; max-width: 600px;">
-    <div style="background-color: #0d1117; padding: 20px 24px; border-radius: 11px; text-align: left; font-family: ui-monospace, SFMono-Regular, SF Mono, Menlo, Consolas, Liberation Mono, monospace;">
-      <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; font-size: 11px; color: #8b949e; letter-spacing: 0.05em;">
-        <span>⚡ STATUS // CORE_OBJECTIVE.exe</span>
-        <span style="color: #3fb950; background: rgba(63, 185, 80, 0.1); padding: 2px 6px; border-radius: 4px;">ONLINE</span>
-      </div>
-      <div style="font-size: 13.5px; color: #c9d1d9; line-height: 1.6;">
-        <span style="color: #ff7b72;">🏴‍☠️</span> <b>Larping Game Dev & Full Stack</b> — one project at a time <span style="color: #7ee787;">🥕</span><br>
-        <span style="color: #d2a8ff;">☄️</span> <span style="color: #8b949e; font-style: italic;">"Shipping code, building systems, and chasing indie dreams."</span> <span style="color: #f0883e;">🌽</span>
-      </div>
-    </div>
+  <div style="border-left: 3px solid #8957e5; border-top: 1px solid #30363d; border-right: 1px solid #30363d; border-bottom: 1px solid #30363d; background-color: #0d1117; padding: 22px 28px; border-radius: 0 8px 8px 0; display: inline-block; width: 100%; max-width: 580px; text-align: left;">
+    <p style="margin: 0 0 10px 0; font-size: 14.5px; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+      🏴‍☠️ &nbsp; <b>Larping Game Dev & Full Stack</b> — one project at a time &nbsp; 🥕
+    </p>
+    <p style="margin: 0; font-size: 13.5px; color: #8b949e; font-style: italic; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+      ☄️ &nbsp; "Shipping code, building systems, and chasing indie dreams." &nbsp; 🌽
+    </p>
   </div>
 </div>
 
