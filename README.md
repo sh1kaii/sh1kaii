@@ -1,7 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=70&lines=%E2%9A%A1+FullStack+%26+Game+Dev+Larper;%E2%9C%A8+Hololarpjoyer+%26+Merch+Collector;%F0%9F%8E%AE+Building+Digital+Worlds+%26+Shipping+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=650&height=70&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81%E5%83%95%E3%81%AEGitHub%E3%81%B8+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;I'm+a+FullStack+%26+Game+Dev+Larper+%E2%9A%A1;%F0%9F%9A%82+Wishlist+G.O.R.D+on+Steam!+%F0%9F%9A%82" alt="Typing SVG" />
 </p>
 
 </div>
@@ -10,19 +10,19 @@
 
 ### 🧭 About Me
 
-<div style="border-left: 3px solid #58a6ff; padding-left: 16px; margin-bottom: 20px;">
+<div style="border-left: 3px solid #E63946; padding-left: 16px; margin-bottom: 20px;">
   <p style="margin: 6px 0;">💻 &nbsp; Soon-to-graduate Computer Science student at <b>Mapúa Malayan Colleges Mindanao</b> based in Davao City, Philippines 🇵🇭.</p>
   <p style="margin: 6px 0;">🎮 &nbsp; Aspiring <b>Indie Game Designer</b> and <b>Systems/App Developer</b>.</p>
   <p style="margin: 6px 0;">📖 &nbsp; <b>Linguaphile</b> & Casual Reader.</p>
 </div>
 
 <div align="center">
-  <div style="background: linear-gradient(135deg, rgba(137, 87, 229, 0.5), rgba(88, 166, 255, 0.5)); padding: 1.5px; border-radius: 12px; display: inline-block; width: 100%; max-width: 600px; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);">
+  <div style="background: linear-gradient(135deg, rgba(230, 57, 70, 0.65), rgba(212, 175, 55, 0.55)); padding: 1.5px; border-radius: 12px; display: inline-block; width: 100%; max-width: 600px; box-shadow: 0 8px 32px rgba(230, 57, 70, 0.15);">
     <div style="background-color: #0d1117; padding: 22px 28px; border-radius: 11px; text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-      <p style="margin: 0 0 12px 0; font-size: 15px; color: #c9d1d9; letter-spacing: 0.3px;">
+      <p style="margin: 0 0 12px 0; font-size: 15px; color: #f8f9fa; letter-spacing: 0.3px;">
         🏴‍☠️ &nbsp; <b>Full Stack & Game Dev one project at a time</b> &nbsp; 🥕
       </p>
-      <p style="margin: 0; font-size: 14px; color: #8b949e; font-style: italic; letter-spacing: 0.3px;">
+      <p style="margin: 0; font-size: 14px; color: #d4af37; font-style: italic; letter-spacing: 0.3px;">
         ☄️ &nbsp; <b>Hololarpjoyer & Merch collector</b> &nbsp; 🌽
       </p>
     </div>
@@ -85,6 +85,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=kamtay&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=kamtay&color=e63946&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
