@@ -1,0 +1,145 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="470" viewBox="0 0 800 470" fill="none" role="img" aria-label="About me: aspiring developer, CS student, indie game designer, linguaphile" xmlns:c2pa="http://c2pa.org/manifest">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="800" y2="470" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D1117"/>
+      <stop offset="1" stop-color="#121826"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E63946"/>
+      <stop offset="1" stop-color="#F4B942"/>
+    </linearGradient>
+    <linearGradient id="fade" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E63946" stop-opacity="0"/>
+      <stop offset=".5" stop-color="#F4B942" stop-opacity=".9"/>
+      <stop offset="1" stop-color="#E63946" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur stdDeviation="45"/></filter>
+    <clipPath id="card"><rect width="800" height="470" rx="20"/></clipPath>
+  </defs>
+
+  <style>
+    text { font-family: 'Segoe UI', -apple-system, 'Helvetica Neue', Ubuntu, Arial, 'Segoe UI Emoji', 'Apple Color Emoji', 'Noto Color Emoji', sans-serif; }
+    .mono { font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace; }
+
+    .rise  { opacity: 0; animation: rise .9s cubic-bezier(.2,.7,.2,1) forwards; }
+    .slide { opacity: 0; animation: slide .8s cubic-bezier(.2,.7,.2,1) forwards; }
+    .pop   { opacity: 0; animation: pop .6s cubic-bezier(.2,.9,.3,1.2) forwards; }
+    .d1 { animation-delay: .2s } .d2 { animation-delay: .45s } .d3 { animation-delay: .7s }
+    .d4 { animation-delay: 1.0s } .d5 { animation-delay: 1.25s } .d6 { animation-delay: 1.5s }
+    .d7 { animation-delay: 1.85s } .d8 { animation-delay: 2.05s } .d9 { animation-delay: 2.25s } .d10 { animation-delay: 2.5s }
+
+    @keyframes rise  { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: none; } }
+    @keyframes slide { from { opacity: 0; transform: translateX(-16px); } to { opacity: 1; transform: none; } }
+    @keyframes pop   { from { opacity: 0; transform: scale(.85); } to { opacity: 1; transform: none; } }
+
+    .draw { stroke-dasharray: 720; stroke-dashoffset: 720; animation: draw 1.4s .8s ease-out forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+
+    .pulse { animation: pulse 2s ease-in-out infinite; }
+    @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: .25; } }
+
+    .drift1 { animation: drift1 14s ease-in-out infinite alternate; }
+    .drift2 { animation: drift2 18s ease-in-out infinite alternate; }
+    @keyframes drift1 { from { transform: translate(0,0); } to { transform: translate(50px,40px); } }
+    @keyframes drift2 { from { transform: translate(0,0); } to { transform: translate(-60px,-30px); } }
+
+    .float { animation: float 5s ease-in-out infinite; }
+    @keyframes float { 0%,100% { transform: translateY(0); } 50% { transform: translateY(-6px); } }
+
+    .sweep { animation: sweepmove 5s ease-in-out 2s infinite; }
+    @keyframes sweepmove { 0% { transform: translateX(-300px); } 100% { transform: translateX(800px); } }
+
+    .shine { animation: shine 6s ease-in-out 2.5s infinite; }
+    @keyframes shine { 0%,70%,100% { opacity: .55; } 85% { opacity: 1; } }
+
+    .badge { animation: badge 4s ease-in-out 3s infinite; }
+    @keyframes badge { 0%,100% { opacity: 1; } 50% { opacity: .78; } }
+  </style>
+
+  <g clip-path="url(#card)">
+    <rect width="800" height="470" fill="url(#bg)"/>
+
+    <g filter="url(#blur)">
+      <circle class="drift1" cx="680" cy="50" r="85" fill="#E63946" opacity=".26"/>
+      <circle class="drift2" cx="100" cy="440" r="95" fill="#F4B942" opacity=".14"/>
+    </g>
+
+    <!-- status pill -->
+    <g class="pop d1" style="transform-origin: 40px 46px">
+      <rect x="40" y="32" width="158" height="28" rx="14" fill="#E63946" fill-opacity=".1" stroke="#E63946" stroke-opacity=".45"/>
+      <circle class="pulse" cx="60" cy="46" r="4" fill="#E63946"/>
+      <text class="mono" x="74" y="50" font-size="11" letter-spacing="2" fill="#F5C6CA" font-weight="600">PROFILE ONLINE</text>
+    </g>
+
+    <!-- headline -->
+    <g class="rise d2">
+      <text x="40" y="106" font-size="31" font-weight="700" fill="#F0F3F6" letter-spacing="-0.4">Hey there! I'm an aspiring <tspan fill="url(#accent)">developer</tspan> 👋</text>
+    </g>
+    <g class="rise d3">
+      <text x="40" y="134" font-size="15" fill="#8B949E">Building, learning, and creating one project at a time.</text>
+    </g>
+
+    <line class="draw" x1="40" y1="156" x2="560" y2="156" stroke="url(#accent)" stroke-width="1.5" stroke-linecap="round" opacity=".7"/>
+
+    <!-- rows -->
+    <g class="slide d4">
+      <text x="40" y="193" font-size="15">🎓</text>
+      <text x="68" y="193" font-size="14.5" fill="#C9D1D9">Soon-to-graduate <tspan font-weight="600" fill="#F0F3F6">Computer Science</tspan> student at <tspan font-weight="600" fill="#F0F3F6">Mapúa Malayan Colleges Mindanao</tspan></text>
+      <text class="mono" x="68" y="211" font-size="11" fill="#6E7681" letter-spacing="1">BASED IN DAVAO CITY, PHILIPPINES</text>
+    </g>
+    <g class="slide d5">
+      <text x="40" y="245" font-size="15">🎮</text>
+      <text x="68" y="245" font-size="14.5" fill="#C9D1D9">Aspiring <tspan font-weight="600" fill="#F0F3F6">Indie Game Designer</tspan> &amp; <tspan font-weight="600" fill="#F0F3F6">Systems / App Developer</tspan></text>
+    </g>
+    <g class="slide d6">
+      <text x="40" y="277" font-size="15">📖</text>
+      <text x="68" y="277" font-size="14.5" fill="#C9D1D9"><tspan font-weight="600" fill="#F0F3F6">Linguaphile</tspan> and casual reader</text>
+    </g>
+
+    <!-- orbit graphic -->
+    <g class="pop d3" style="transform-origin: 700px 150px">
+      <g class="float">
+        <circle cx="700" cy="150" r="62" stroke="#ffffff" stroke-opacity=".06"/>
+        <circle cx="700" cy="150" r="46" stroke="url(#accent)" stroke-width="1.2" stroke-dasharray="3 7" stroke-linecap="round" opacity=".75">
+          <animateTransform attributeName="transform" type="rotate" from="0 700 150" to="360 700 150" dur="40s" repeatCount="indefinite"/>
+        </circle>
+        <circle cx="700" cy="150" r="31" stroke="#ffffff" stroke-opacity=".1" stroke-dasharray="1 6" stroke-linecap="round">
+          <animateTransform attributeName="transform" type="rotate" from="360 700 150" to="0 700 150" dur="30s" repeatCount="indefinite"/>
+        </circle>
+        <g><circle cx="700" cy="88" r="4.5" fill="#E63946"/>
+          <animateTransform attributeName="transform" type="rotate" from="0 700 150" to="360 700 150" dur="14s" repeatCount="indefinite"/></g>
+        <g><circle cx="700" cy="119" r="3" fill="#F4B942"/>
+          <animateTransform attributeName="transform" type="rotate" from="180 700 150" to="-180 700 150" dur="9s" repeatCount="indefinite"/></g>
+        <circle cx="700" cy="150" r="19" fill="#E63946" fill-opacity=".08" stroke="#E63946" stroke-opacity=".35"/>
+        <text class="mono shine" x="700" y="155" font-size="13" font-weight="700" fill="#F4B942" text-anchor="middle">&lt;/&gt;</text>
+      </g>
+    </g>
+
+    <!-- divider between sections -->
+    <line x1="40" y1="308" x2="760" y2="308" stroke="#ffffff" stroke-opacity=".08"/>
+
+    <!-- building section (centered) -->
+    <g class="rise d7">
+      <text class="mono" x="400" y="337" font-size="11" fill="#8B949E" letter-spacing="2" text-anchor="middle">BUILDING</text>
+    </g>
+    <g class="pop d8" style="transform-origin: 400px 362px">
+      <g class="badge">
+        <rect x="314" y="348" width="172" height="26" rx="13" fill="url(#accent)"/>
+        <text class="mono" x="400" y="365" font-size="11" font-weight="700" fill="#0D1117" text-anchor="middle" letter-spacing="1">FULL STACK &amp; GAME DEV</text>
+      </g>
+    </g>
+    <g class="rise d9">
+      <text x="400" y="406" font-size="14.5" font-weight="600" fill="#F0F3F6" text-anchor="middle">🏴‍☠️ Full Stack &amp; Game Dev — one project at a time 🥕</text>
+      <text x="400" y="432" font-size="14.5" font-weight="600" fill="#F0F3F6" text-anchor="middle">🎀 Hololarpjoyer &amp; Merch Collector 🌽</text>
+    </g>
+
+    <!-- quote -->
+    <g class="rise d10">
+      <text x="400" y="458" font-size="13" font-style="italic" fill="#9DA7B3" text-anchor="middle">☄️ Always learning something new. <tspan fill="#F4B942">Always building something.</tspan></text>
+    </g>
+
+    <rect class="sweep" x="0" y="0" width="300" height="2" fill="url(#fade)"/>
+  </g>
+
+  <rect x=".5" y=".5" width="799" height="469" rx="19.5" stroke="#ffffff" stroke-opacity=".08"/>
+<metadata><c2pa:manifest>AAAWgmp1bWIAAAAeanVtZGMycGEAEQAQgAAAqgA4m3EDYzJwYQAAABZcanVtYgAAAEdqdW1kYzJtYQARABCAAACqADibcQN1cm46YzJwYTpkY2ZiZDQyZi1iY2Y0LTQ2Y2YtOTdlYy04MTlkMDJmNGEzOWIAAAADl2p1bWIAAAApanVtZGMyYXMAEQAQgAAAqgA4m3EDYzJwYS5hc3NlcnRpb25zAAAAALxqdW1iAAAARGp1bWRjYm9yABEAEIAAAKoAOJtxE2MycGEuaW5ncmVkaWVudC52MwAAAAAYYzJzaEXXcy1V4rLUvzr0rDu7GG4AAABwY2JvcqNpZGM6Zm9ybWF0bWltYWdlL3N2Zyt4bWxqaW5zdGFuY2VJRHgseG1wOmlpZDo3ODA5OWMyMi03YzgyLTRlOGEtYTY3Ny03ZjQ0OWRjMDlhNGRscmVsYXRpb25zaGlwaHBhcmVudE9mAAAB4mp1bWIAAABBanVtZGNib3IAEQAQgAAAqgA4m3ETYzJwYS5hY3Rpb25zLnYyAAAAABhjMnNowqTSXUuWsh+Myl+9uikMpwAAAZljYm9yomdhY3Rpb25zgqJmYWN0aW9ua2MycGEub3BlbmVkanBhcmFtZXRlcnOha2luZ3JlZGllbnRzgaJjdXJseC1zZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmluZ3JlZGllbnQudjNkaGFzaFggqN2fDkta0Py3gZtAGh4sGfrZQ0lsCNA4TrM5ylmMDUikZmFjdGlvbngdY29tLmFudGhyb3BpYy5jbGF1ZGUucHJvdmlkZWRqcGFyYW1ldGVyc6F4H2NvbS5hbnRocm9waWMub3JpZ2luLWNvbmZpZGVuY2VndW5rbm93bmtkZXNjcmlwdGlvbnhmQ2xhdWRlIHByb3ZpZGVkIHRoaXMgZmlsZSBhdCB0aGUgcmVxdWVzdCBvZiBhIHVzZXIgYW5kIG1heSBoYXZlIGNyZWF0ZWQgb3IgbW9kaWZpZWQgdGhlIGZpbGUgY29udGVudHMubXNvZnR3YXJlQWdlbnShZG5hbWVmQ2xhdWRlcmFsbEFjdGlvbnNJbmNsdWRlZPUAAADIanVtYgAAAEBqdW1kY2JvcgARABCAAACqADibcRNjMnBhLmhhc2guZGF0YQAAAAAYYzJzaLJzmmtLsbYQe2C0nwqqNpMAAACAY2JvcqVjYWxnZnNoYTI1NmNwYWRMAAAAAAAAAAAAAAAAZGhhc2hYIDsJCTLqoIuDdDK10M0sLK/C7+aeA6asMVZofCtRubzSZG5hbWVuanVtYmYgbWFuaWZlc3RqZXhjbHVzaW9uc4GiZXN0YXJ0GSIHZmxlbmd0aBkeBAAAAj5qdW1iAAAAJ2p1bWRjMmNsABEAEIAAAKoAOJtxA2MycGEuY2xhaW0udjIAAAACD2Nib3KlY2FsZ2ZzaGEyNTZpc2lnbmF0dXJleE1zZWxmI2p1bWJmPS9jMnBhL3VybjpjMnBhOmRjZmJkNDJmLWJjZjQtNDZjZi05N2VjLTgxOWQwMmY0YTM5Yi9jMnBhLnNpZ25hdHVyZWppbnN0YW5jZUlEeCx4bXA6aWlkOmUwN2RmOWZiLWIzMWQtNGFkYy1hODA4LTgzMmM5ZmFhODI2YnJjcmVhdGVkX2Fzc2VydGlvbnODomN1cmx4LXNlbGYjanVtYmY9YzJwYS5hc3NlcnRpb25zL2MycGEuaW5ncmVkaWVudC52M2RoYXNoWCCo3Z8OS1rQ/LeBm0AaHiwZ+tlDSWwI0DhOsznKWYwNSKJjdXJseCpzZWxmI2p1bWJmPWMycGEuYXNzZXJ0aW9ucy9jMnBhLmFjdGlvbnMudjJkaGFzaFggFziI0hEzhdicvtdR2J0CQJLKHSTiAgIXLVtxzcspCkyiY3VybHgpc2VsZiNqdW1iZj1jMnBhLmFzc2VydGlvbnMvYzJwYS5oYXNoLmRhdGFkaGFzaFggX+SXs2RbcOS/FXSaXh0/PxBygwHmiDDOEiknJgH++6F0Y2xhaW1fZ2VuZXJhdG9yX2luZm+jZG5hbWVvQW50aHJvcGljIEZpbGVzZ3ZlcnNpb25lMS4wLjBrc3BlY1ZlcnNpb25lMi40LjAAABA4anVtYgAAAChqdW1kYzJjcwARABCAAACqADibcQNjMnBhLnNpZ25hdHVyZQAAABAIY2JvctKEWQISogEmGCFZAgowggIGMIIBjaADAgECAhRA5aAK7sI50L64g/oGQgU9Z1UTADAKBggqhkjOPQQDAzBJMRcwFQYDVQQKEw5BbnRocm9waWMsIFBCQzEuMCwGA1UEAxMlQW50aHJvcGljIENvbnRlbnQgQ3JlZGVudGlhbHMgUm9vdCBDQTAeFw0yNjA4MDcxODQzNTZaFw0yODA4MDYxOTQzNTZaMEQxFzAVBgNVBAoTDkFudGhyb3BpYywgUEJDMSkwJwYDVQQDEyBBbnRocm9waWMgQ2xhdWRlIENvbnRlbnQgU2lnbmluZzBZMBMGByqGSM49AgEGCCqGSM49AwEHA0IABJh6CmvLUBgFFNU0vUKlOVtE6djd17L5SuwX0LemFisBM3dkd/3cyjxFA3Qo5S46fX0/ihY0VZ7mfb9KF703t5OjWDBWMA4GA1UdDwEB/wQEAwIHgDAVBgNVHSUEDjAMBgorBgEEAYPoXgIBMAwGA1UdEwEB/wQCMAAwHwYDVR0jBBgwFoAUzlHiBIFOZFsj+OPEz5o+nMHXXMIwCgYIKoZIzj0EAwMDZwAwZAIwMXMdFJ4BetLLVY7ORuE9noqbbAZOZn/aArXyTwFAZfKrPzxF2vPoJNf1+UCdg1XGAjBwX1zd9WGqYkqmL5SFqw1QySjr1zJfpJM9+1rdDwSPLMOPOjKuiXjoU/pUUeG9RwmhY3BhZFkNngAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPZYQKSKDJEnFkp3mpu6JpiVG4nMcIE1nm/U8MzCHj+inVk+8ncbjnZzSMrVTf0xDVP71Mcl1U03LA6wq0sx4bw/ugY=</c2pa:manifest></metadata></svg>
