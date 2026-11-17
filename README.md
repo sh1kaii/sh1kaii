@@ -1,10 +1,7 @@
 <div align="center">
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2500&pause=800&color=E63946&center=true&vCenter=true&width=650&height=45&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D%EF%BC%81%E5%83%95%E3%81%AEGitHub%E3%81%B8+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F" alt="Marine Greeting" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&height=40&lines=I'm+a+FullStack+%26+Game+Dev+Larper+%F0%9F%A5%95" alt="Pekora Line" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3100&pause=1000&color=2563EB&center=true&vCenter=true&width=650&height=40&lines=%F0%9F%9A%82+Wishlist+G.O.R.D+on+Steam!+%E2%98%84%EF%B8%8F" alt="Suisei Line" /><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3400&pause=1100&color=F8FAFC&center=true&vCenter=true&width=650&height=40&lines=Learning+%26+mastering%2C+one+project+at+a+time+%F0%9F%8C%BD" alt="Fubuki Line" />
+  <img src="data:image/svg+xml;utf8,&lt;svg width='750' height='90' viewBox='0 0 750 90' xmlns='http://www.w3.org/2000/svg'&gt;&lt;defs&gt;&lt;filter id='glow' x='-20%25' y='-20%25' width='140%25' height='140%25'&gt;&lt;feGaussianBlur stdDeviation='2.5' result='blur' /&gt;&lt;feComposite in='SourceGraphic' in2='blur' operator='over' /&gt;&lt;/filter&gt;&lt;/defs&gt;&lt;style&gt;.bg{fill:%230d1117;stroke:%2330363d;stroke-width:1;rx:12px;}.star{fill:%2360A5FA;opacity:0.8;animation:shootingStar linear infinite;}.sparkle{fill:%23FFFFFF;animation:twinkle ease-in-out infinite alternate;}@keyframes shootingStar{0%&#123;transform:translateY(-15px) translateX(-10px);opacity:0;&#125;15%&#123;opacity:0.9;&#125;85%&#123;opacity:0.9;&#125;100%&#123;transform:translateY(100px) translateX(30px);opacity:0;&#125;}@keyframes twinkle{0%&#123;opacity:0.2;transform:scale(0.6);&#125;100%&#123;opacity:1;transform:scale(1.4);&#125;}.line{font-family:monospace,sans-serif;font-weight:bold;font-size:20px;letter-spacing:0.4px;text-anchor:middle;dominant-baseline:middle;opacity:0;filter:url(%23glow);}.l1{fill:%23E63946;animation:fadeCycle 16s infinite 0s;}.l2{fill:%2360A5FA;animation:fadeCycle 16s infinite 4s;}.l3{fill:%233B82F6;animation:fadeCycle 16s infinite 8s;}.l4{fill:%23F8FAFC;animation:fadeCycle 16s infinite 12s;}@keyframes fadeCycle{0%&#123;opacity:0;transform:translateY(6px);&#125;4%&#123;opacity:1;transform:translateY(0px);&#125;21%&#123;opacity:1;transform:translateY(0px);&#125;25%&#123;opacity:0;transform:translateY(-6px);&#125;100%&#123;opacity:0;&#125;}&lt;/style&gt;&lt;rect x='5' y='5' width='740' height='80' class='bg' /&gt;&lt;circle cx='40' cy='0' r='2' class='star' style='animation-duration:1.4s;animation-delay:0.1s;' /&gt;&lt;circle cx='95' cy='0' r='1.5' class='sparkle' style='animation-duration:1.1s;animation-delay:0.6s;' /&gt;&lt;circle cx='150' cy='0' r='2.2' class='star' style='animation-duration:1.7s;animation-delay:0.3s;' /&gt;&lt;circle cx='210' cy='0' r='1' class='sparkle' style='animation-duration:0.9s;animation-delay:0.8s;' /&gt;&lt;circle cx='280' cy='0' r='2.5' class='star' style='animation-duration:1.5s;animation-delay:0.2s;' /&gt;&lt;circle cx='340' cy='0' r='1.5' class='sparkle' style='animation-duration:1.3s;animation-delay:0.5s;' /&gt;&lt;circle cx='410' cy='0' r='2' class='star' style='animation-duration:1.2s;animation-delay:0.7s;' /&gt;&lt;circle cx='475' cy='0' r='1.2' class='sparkle' style='animation-duration:1.0s;animation-delay:0.4s;' /&gt;&lt;circle cx='535' cy='0' r='2.3' class='star' style='animation-duration:1.6s;animation-delay:0.9s;' /&gt;&lt;circle cx='600' cy='0' r='1.5' class='sparkle' style='animation-duration:1.2s;animation-delay:0.1s;' /&gt;&lt;circle cx='665' cy='0' r='2.2' class='star' style='animation-duration:1.4s;animation-delay:0.6s;' /&gt;&lt;circle cx='715' cy='0' r='1' class='sparkle' style='animation-duration:0.8s;animation-delay:0.3s;' /&gt;&lt;text x='50%25' y='53%25' class='line l1'&gt;ハローワールド！🏴‍☠️&lt;/text&gt;&lt;text x='50%25' y='53%25' class='line l2'&gt;Aspiring Full Stack &amp;amp; Game Dev Larper 🥕&lt;/text&gt;&lt;text x='50%25' y='53%25' class='line l3'&gt;I love learning new things, especially languages ☄️&lt;/text&gt;&lt;text x='50%25' y='53%25' class='line l4'&gt;🚂 Wishlist G.O.R.D on Steam! 🌽&lt;/text&gt;&lt;/svg&gt;" alt="Animated Header" />
 </p>
 
 </div>
@@ -13,19 +10,19 @@
 
 ### 🧭 About Me
 
-<div style="border-left: 3px solid #E63946; padding-left: 16px; margin-bottom: 20px;">
+<div style="border-left: 3px solid #E63946; padding-left: 16px; margin-bottom: 22px; font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif; line-height: 1.65;">
   <p style="margin: 6px 0;">💻 &nbsp; Soon-to-graduate Computer Science student at <b>Mapúa Malayan Colleges Mindanao</b> based in Davao City, Philippines 🇵🇭.</p>
   <p style="margin: 6px 0;">🎮 &nbsp; Aspiring <b>Indie Game Designer</b> and <b>Systems/App Developer</b>.</p>
   <p style="margin: 6px 0;">📖 &nbsp; <b>Linguaphile</b> & Casual Reader.</p>
 </div>
 
 <div align="center">
-  <div style="background: linear-gradient(135deg, #E63946, #60A5FA, #2563EB, #F8FAFC); padding: 1.5px; border-radius: 12px; display: inline-block; width: 100%; max-width: 600px; box-shadow: 0 8px 32px rgba(230, 57, 70, 0.15);">
-    <div style="background-color: #0d1117; padding: 22px 28px; border-radius: 11px; text-align: center; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-      <p style="margin: 0 0 12px 0; font-size: 15px; color: #f8f9fa; letter-spacing: 0.3px;">
-        🏴‍☠️ &nbsp; <b>Learning & mastering — one project at a time</b> &nbsp; 🥕
+  <div style="background: linear-gradient(135deg, rgba(230, 57, 70, 0.65), rgba(212, 175, 55, 0.55)); padding: 1.5px; border-radius: 12px; display: inline-block; width: 100%; max-width: 600px; box-shadow: 0 8px 32px rgba(230, 57, 70, 0.15);">
+    <div style="background-color: #0d1117; padding: 22px 28px; border-radius: 11px; text-align: center; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+      <p style="margin: 0 0 12px 0; font-size: 15px; color: #f8f9fa; letter-spacing: 0.4px;">
+        🏴‍☠️ &nbsp; <b>Full Stack & Game Dev one project at a time</b> &nbsp; 🥕
       </p>
-      <p style="margin: 0; font-size: 14px; color: #93C5FD; font-style: italic; letter-spacing: 0.3px;">
+      <p style="margin: 0; font-size: 14px; color: #d4af37; font-style: italic; letter-spacing: 0.4px;">
         ☄️ &nbsp; <b>Hololarpjoyer & Merch collector</b> &nbsp; 🌽
       </p>
     </div>
@@ -75,10 +72,32 @@
 
 ---
 
+### 📊 GitHub Activity & Stats
+
 <div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=sh1kaii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1kaii&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </p>
+</div>
+
+---
 
 ### 📡 Connect With Me
 
+<div align="center">
+
 <p align="center">
   <a href="https://www.linkedin.com/in/aaron-keith-berongon-1b818a2b5/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/kamtay"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://twitter.com/kamtay"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:aberongon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://discord.com/users/655078196252901376"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
+</p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=sh1kaii&color=e63946&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+
+</div>
