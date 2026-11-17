@@ -1,16 +1,8 @@
 <div align="center">
 
-# Aaron Keith S. Berongon
-
-### Part-time FullStack & Game Dev Larper
-
-<br>
-
-<div align="center">
-  <pre style="background: #0d1117; border: 1px solid #30363d; border-radius: 8px; padding: 12px 24px; display: inline-block; font-family: monospace; color: #58a6ff; font-weight: bold; letter-spacing: 2px;">
-🕹️ [ ▶ PAC-BIT 👾 ] ➔ ➔ ➔ 🥔 [ WISHLIST G.O.R.D ON STEAM! ]
-  </pre>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&height=60&lines=FullStack+%26+Game+Dev+Larper;Hololarpjoyer+%26+Merch+Collector;Building+Digital+Worlds+%26+Shipping+Code" alt="Typing SVG" />
+</p>
 
 </div>
 
@@ -25,13 +17,15 @@
 <br>
 
 <div align="center">
-  <div style="border-left: 3px solid #8957e5; border-top: 1px solid #30363d; border-right: 1px solid #30363d; border-bottom: 1px solid #30363d; background-color: #0d1117; padding: 22px 28px; border-radius: 0 8px 8px 0; display: inline-block; width: 100%; max-width: 580px; text-align: left;">
-    <p style="margin: 0 0 10px 0; font-size: 14.5px; color: #c9d1d9; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-      🏴‍☠️ &nbsp; <b>Larping Game Dev & Full Stack</b> — one project at a time &nbsp; 🥕
-    </p>
-    <p style="margin: 0; font-size: 13.5px; color: #8b949e; font-style: italic; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-      ☄️ &nbsp; "Shipping code, building systems, and chasing indie dreams." &nbsp; 🌽
-    </p>
+  <div style="background: linear-gradient(135deg, rgba(137, 87, 229, 0.4), rgba(88, 166, 255, 0.4)); padding: 1.5px; border-radius: 12px; display: inline-block; width: 100%; max-width: 600px;">
+    <div style="background-color: #0d1117; padding: 22px 26px; border-radius: 11px; text-align: left; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
+      <p style="margin: 0 0 10px 0; font-size: 14.5px; color: #c9d1d9;">
+        🏴‍☠️ &nbsp; <b>Full Stack & Game Dev</b> — one project at a time &nbsp; 🥕
+      </p>
+      <p style="margin: 0; font-size: 13.5px; color: #8b949e; font-style: italic;">
+        ☄️ &nbsp; <b>Hololarpjoyer & Merch collector</b> &nbsp; 🌽
+      </p>
+    </div>
   </div>
 </div>
 
@@ -43,6 +37,9 @@
 <p>
   <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Krita-20232A?style=for-the-badge&logo=krita&logoColor=22B8CF" />
   <img src="https://img.shields.io/badge/Game_Backend-333333?style=for-the-badge&logo=codeforces&logoColor=white" />
 </p>
 
@@ -64,10 +61,11 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
 </p>
@@ -84,5 +82,9 @@
   <a href="mailto:aberongon@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://discord.com/users/655078196252901376"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=kamtay&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
