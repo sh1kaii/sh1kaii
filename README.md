@@ -3,68 +3,11 @@
 </p>
 
 
-### 🧭 About Me
+<h2 align="left">🧭 About Me</h2>
 
-<div align="center">
-  <style>
-    @keyframes borderGlow {
-      0% { filter: hue-rotate(0deg); }
-      50% { filter: hue-rotate(40deg); }
-      100% { filter: hue-rotate(0deg); }
-    }
-    .about-card {
-      background: linear-gradient(135deg, rgba(96, 165, 250, 0.25), rgba(230, 57, 70, 0.25), rgba(212, 175, 55, 0.25));
-      padding: 2px;
-      border-radius: 14px;
-      display: inline-block;
-      width: 100%;
-      max-width: 720px;
-      box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
-      animation: borderGlow 8s ease infinite;
-    }
-    .about-inner {
-      background-color: #0d1117;
-      padding: 24px 28px;
-      border-radius: 12px;
-      text-align: left;
-      font-family: -apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif;
-      color: #c9d1d9;
-      line-height: 1.8;
-    }
-  </style>
-
-  <div class="about-card">
-    <div class="about-inner">
-      <p style="margin: 8px 0; font-size: 15px; display: flex; align-items: center;">
-        <span style="font-size: 18px; margin-right: 10px;">💻</span>
-        <span>Soon-to-graduate Computer Science student at <b style="color: #60A5FA;">Mapúa Malayan Colleges Mindanao</b> based in Davao City, Philippines 🇵🇭.</span>
-      </p>
-      <p style="margin: 12px 0; font-size: 15px; display: flex; align-items: center;">
-        <span style="font-size: 18px; margin-right: 10px;">🎮</span>
-        <span>Aspiring <b style="color: #E63946;">Indie Game Designer</b> &amp; <b style="color: #E63946;">Systems/App Developer</b>.</span>
-      </p>
-      <p style="margin: 8px 0; font-size: 15px; display: flex; align-items: center;">
-        <span style="font-size: 18px; margin-right: 10px;">📖</span>
-        <span><b style="color: #d4af37;">Linguaphile</b> &amp; Casual Reader.</span>
-      </p>
-    </div>
-  </div>
-</div>
-
-<br>
-
-<div align="center">
-  <div style="background: linear-gradient(135deg, rgba(230, 57, 70, 0.7), rgba(212, 175, 55, 0.6)); padding: 1.5px; border-radius: 12px; display: inline-block; width: 100%; max-width: 620px; box-shadow: 0 8px 32px rgba(230, 57, 70, 0.2);">
-    <div style="background-color: #0d1117; padding: 20px 26px; border-radius: 11px; text-align: center; font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;">
-      <p style="margin: 0 0 10px 0; font-size: 15px; color: #f8f9fa; letter-spacing: 0.4px;">
-        🏴‍☠️ &nbsp; <b>Full Stack &amp; Game Dev one project at a time</b> &nbsp; 🥕
-      </p>
-      <p style="margin: 0; font-size: 14px; color: #d4af37; font-style: italic; letter-spacing: 0.4px;">
-        ☄️ &nbsp; <b>Hololarpjoyer &amp; Merch collector</b> &nbsp; 🌽
-      </p>
-    </div>
-  </div>
-</div>
+<p align="center">
+  <img src="./about-me.svg" width="100%" alt="About me">
+</p>
 
 ---
 
