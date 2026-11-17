@@ -71,10 +71,13 @@
 
 <div align="center">
   <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=sh1kaii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="sh1kaii's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sh1kaii&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&count_private=true" alt="sh1kaii's GitHub stats" />
   </p>
   <p>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=sh1kaii&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sh1kaii&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
   </p>
 </div>
 
